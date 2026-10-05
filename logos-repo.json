@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "name": "CHANGE-ME-modules",
-  "displayName": "CHANGE ME — My Logos Modules",
-  "description": "A short human description of this module catalog.",
-  "homepage": "https://example.com/modules",
-  "indexUrl": "https://github.com/CHANGE-ME-OWNER/CHANGE-ME-REPO/releases/download/index/index.json",
+  "name": "forumer",
+  "displayName": "Forumer",
+  "description": "Forumer: a private forum with no server, on the Logos stack. Its dependencies (delivery_module, storage_module) come from the official Logos catalog.",
+  "homepage": "https://github.com/bristinWild/forumer",
+  "indexUrl": "https://github.com/bristinWild/forumer-catalog/releases/download/index/index.json",
   "trustedSigners": []
 }
